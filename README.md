@@ -58,15 +58,10 @@ or
 
 ![image](https://github.com/user-attachments/assets/11db7360-00c0-476c-84c6-9223714116e4)
 
-5.Open your Browser:
+5. Open your Browser:
 
 ![image](https://github.com/user-attachments/assets/34dfd060-c5da-4777-9b4d-42757f3d579f)
 
 # 📬 API Endpoints
 
-Method	Route	Action
-GET	/api/students	Get all students
-POST	/api/students	Add a new student
-GET	/api/students/:id	Get a student by ID
-PUT	/api/students/:id	Update a student's info
-DELETE	/api/students/:id	Remove a student
+![image](https://github.com/user-attachments/assets/f447d84a-a87c-40ef-ac2e-ef13b8019880)
