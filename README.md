@@ -1,9 +1,8 @@
-📚 Student Management CRUD Application
-
+# 📚 Student Management CRUD Application
 
 
 ✨ About the Project
-A simple Student Management System that demonstrates basic CRUD (Create, Read, Update, Delete) operations using:
+> A simple Student Management System that demonstrates basic CRUD (Create, Read, Update, Delete) operations using:
 
 MongoDB for database
 
@@ -14,27 +13,25 @@ HTML/CSS/JavaScript for frontend UI
 This project allows users to add, view, update, and delete student records easily through a clean and responsive web interface.
 
 🎯 Features
-🔥 Create new student profiles
+. 🔥 Create new student profiles
 
-🧾 View all students
+. 🧾 View all students
 
-✏️ Edit student details
+. ✏️ Edit student details
 
-❌ Delete student records
+. ❌ Delete student records
 
-🔗 RESTful API integration
+. 🔗 RESTful API integration
 
-🎨 Clean and responsive user interface
+. 🎨 Clean and responsive user interface
 
-⚙️ Tech Stack
+. ⚙️ Tech Stack
 
-Frontend	Backend	Database
+# Frontend	Backend	Database
 HTML5, CSS3, JavaScript	Node.js, Express.js	MongoDB, Mongoose
 
-📂 Folder Structure
-pgsql
-Copy
-Edit
+# 📂 Folder Structure
+
 student-crud/
 ├── public/
 │   ├── index.html
@@ -51,42 +48,28 @@ student-crud/
 ├── server.js
 ├── package.json
 
-🚀 Getting Started
+# 🚀 Getting Started
 1. Clone the Repository:
 ![image](https://github.com/user-attachments/assets/06a10840-ef75-4f0a-803e-187a71f0c9a3)
 
 
 2. Install Node.js Dependencies:
+![image](https://github.com/user-attachments/assets/b86ea184-f0ad-46df-a8ef-19717a8cd893)
 
-bash
-Copy
-Edit
-npm install
-Start MongoDB locally:
 
-bash
-Copy
-Edit
-mongod
-Run the Server:
+3. Start MongoDB locally:
+![image](https://github.com/user-attachments/assets/0a93f4bd-0bf3-4664-8b43-0381d35e7e47)
 
-bash
-Copy
-Edit
-npm run dev
+4. Run the Server:
+![image](https://github.com/user-attachments/assets/9c562f31-f50c-4bc8-abbb-e0121189b512)
+
 or
+![image](https://github.com/user-attachments/assets/11db7360-00c0-476c-84c6-9223714116e4)
 
-bash
-Copy
-Edit
-npm start
-Open your Browser:
+5.Open your Browser:
+![image](https://github.com/user-attachments/assets/34dfd060-c5da-4777-9b4d-42757f3d579f)
 
-arduino
-Copy
-Edit
-http://localhost:5000
-📬 API Endpoints
+# 📬 API Endpoints
 
 Method	Route	Action
 GET	/api/students	Get all students
