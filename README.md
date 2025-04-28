@@ -32,21 +32,8 @@ HTML5, CSS3, JavaScript	Node.js, Express.js	MongoDB, Mongoose
 
 # 📂 Folder Structure
 
-student-crud/
-├── public/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-├── controllers/
-│   └── studentController.js
-├── models/
-│   └── Student.js
-├── routes/
-│   └── studentRoutes.js
-├── config/
-│   └── db.js
-├── server.js
-├── package.json
+![image](https://github.com/user-attachments/assets/cf1ee2bb-edfa-41ef-a8a2-788366a9ed45)
+
 
 # 🚀 Getting Started
 1. Clone the Repository:
