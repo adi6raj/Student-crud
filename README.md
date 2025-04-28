@@ -1,18 +1,18 @@
 # 📚 Student Management CRUD Application
 
 
-✨ About the Project
+# ✨ About the Project
 > A simple Student Management System that demonstrates basic CRUD (Create, Read, Update, Delete) operations using:
 
-MongoDB for database
+. MongoDB for database
 
-Express.js for backend server
+. Express.js for backend server
 
-HTML/CSS/JavaScript for frontend UI
+. HTML/CSS/JavaScript for frontend UI
 
-This project allows users to add, view, update, and delete student records easily through a clean and responsive web interface.
+> This project allows users to add, view, update, and delete student records easily through a clean and responsive web interface.
 
-🎯 Features
+# 🎯 Features
 . 🔥 Create new student profiles
 
 . 🧾 View all students
