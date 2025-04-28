@@ -37,23 +37,28 @@ HTML5, CSS3, JavaScript	Node.js, Express.js	MongoDB, Mongoose
 
 # 🚀 Getting Started
 1. Clone the Repository:
+
 ![image](https://github.com/user-attachments/assets/06a10840-ef75-4f0a-803e-187a71f0c9a3)
 
 
 2. Install Node.js Dependencies:
+
 ![image](https://github.com/user-attachments/assets/b86ea184-f0ad-46df-a8ef-19717a8cd893)
 
 
 3. Start MongoDB locally:
+   
 ![image](https://github.com/user-attachments/assets/0a93f4bd-0bf3-4664-8b43-0381d35e7e47)
 
 4. Run the Server:
+
 ![image](https://github.com/user-attachments/assets/9c562f31-f50c-4bc8-abbb-e0121189b512)
 
 or
 ![image](https://github.com/user-attachments/assets/11db7360-00c0-476c-84c6-9223714116e4)
 
 5.Open your Browser:
+
 ![image](https://github.com/user-attachments/assets/34dfd060-c5da-4777-9b4d-42757f3d579f)
 
 # 📬 API Endpoints
